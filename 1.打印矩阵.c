@@ -1,10 +1,10 @@
 #include <stdio.h>
 int main()
 {
-	//ÍâÑ­»·
+	//å¤–å¾ªç¯
 	for (int i = 1; i <= 10; i++)
 	{
-		//ÄÚÑ­»·
+		//å†…å¾ªç¯
 		for (int j = 1; j <= 10; j++)
 		{
 			printf("*");
